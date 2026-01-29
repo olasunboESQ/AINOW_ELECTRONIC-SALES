@@ -15,7 +15,7 @@ This Project has to do with an Electronic Sales Dataset and
 
 ## 🧰 Analysis Tools
 
-[Powerbi](www.microsoft/powerbi.com)  was the tool used for the Data Extraction, Transformation and Loading.
+[Powerbi](https://www.microsoft.com/power-bi)  was the tool used for the Data Extraction, Transformation and Loading.
 
 
 ## 🎯 Exploratory Details
@@ -38,18 +38,14 @@ Fields: 13
 Source: AINOW Learnlive LMS
 
 Contains: 
- - Order ID
- - Order Date
- - Unit Cost
- - Price
- - Order Quantity
- - Sales
- - Channel
- - Promotion Name
- - Product Name
- - Product Sub Category
- - Product Category
- - State
- - Zone
+|           |      |
+|----------------|---------------|
+| Order ID        | Order Date     |
+| Unit Cost      | Price          |
+| Order Quantity  | Sales        |
+| Channel         |Promotion Name    |
+| Product Name    | Product Sub Category    |
+| Product Category  | State     |
+| Zone  |
 
    
