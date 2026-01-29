@@ -1,33 +1,36 @@
-# 🏬 AINOW_ELECTRONIC-SALES
+# 🏬 AINOW ELECTRONIC SALES
 
-## 📌 INTRODUCTION
+[Introduction](#introduction)
 
-This Project has to do with an Electronic Sales Dataset and Powerbi was the tool used for the Data Extraction, Transformation and Loading.
+[Dataset Overview](#dataset-overview)
 
-     Project Overiew
+[Analysis Tools](#analysis-tools)
 
-    Analysis Tools
-
-    OUTCOME OF ORDER_DATA USING Structured Query Language (SQL)
-
-    FINDINGS AND RECOMMENDATIONS
+[Findings and Recommendations](#findings-and-recommendations)
 
 
-🎯 Exploratory Details
+## 📌 Introduction
+
+This Project has to do with an Electronic Sales Dataset and 
+
+## 🧰 Analysis Tools
+
+[Powerbi](www.microsoft/powerbi.com)  was the tool used for the Data Extraction, Transformation and Loading.
+
+
+## 🎯 Exploratory Details
 
 I cleaned the dataset by :
 
   * Replacing all the City names embeded in Channel Column with (UNKNOWN), replacing all the numbers in Promotion Name and Product Name with (UNKNOWN).
 
-   * I thereafter proceeded to Create a new Column which i named Cost by using the custom column -Standard where i picked multiply and then selected the Unit Price and Oder Quantty columns.
+ * I thereafter proceeded to Create a new Column which i named Cost by using the Custom Column, selected Standard where i picked multiply and then selected the Unit Price and Order Quantty columns.
 
-- I went ahead to create the Date Table 
+- I went ahead to create the Date Table and marked it as a Date Table.
 
+- Measure Table was created with DAX and i created 11 (eleven) Measures using the Time Intelligence
 
-
-
-
-# 📊 Dataset Overview
+## 📊 Dataset Overview
 Total Records: 15000
 
 Fields: 13
