@@ -9,9 +9,11 @@
 [Findings and Recommendations](#findings-and-recommendations)
 
 
+## PROJECT OVERVIEW
+
 ## 📌 Introduction
 
-This Project has to do with an Electronic Sales Dataset and 
+This Project has to do with an Electronic Sales Dataset data analysis of Products, Channel of sale and Zones of purchase in order  to generate insights that can guide product improvement, marketing strategies, and customer engagement.
 
 ## 🧰 Analysis Tools
 
@@ -26,9 +28,19 @@ I cleaned the dataset by :
 
  * I thereafter proceeded to Create a new Column which i named Cost by using the Custom Column, selected Standard where i picked multiply and then selected the Unit Price and Order Quantty columns.
 
-- I went ahead to create the Date Table and marked it as a Date Table.
+- I went ahead to create the Date Table and marked it as a Date Table, then created a relationship of many to one between the Sales Details Table and the Date Table.
 
-- Measure Table was created with DAX and i created 11 (eleven) Measures using the Time Intelligence
+- Measure Table was created with DAX and i created 11 (eleven) Measures using Time Intelligence.
+
+  * Sales Year To Date
+  * Sales Quarter to Date
+  * Same Period Last Year
+  * Sales Year on Year Variance
+  * Sales Year on Year Variance %
+  * Sales Last Month
+
+ - Based on the Time Intelligence Measure I created visuals around Channel, Product Category and Zone.
+ - I showed Profit and Profit Margin over the year
 
 ## 📊 Dataset Overview
 Total Records: 15000
