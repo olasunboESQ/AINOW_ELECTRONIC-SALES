@@ -60,7 +60,7 @@ Contains:
 | Zone  |
 
 
- ## 📑 Analysis Task
+ ## 📑 Analysis Task 1
 
 The following KPIs were generated 
 
@@ -72,6 +72,22 @@ The following KPIs were generated
 
  
 <img width="879" height="492" alt="pg 1 new" src="https://github.com/user-attachments/assets/b44a38f9-8906-4917-aeda-7928980a627c" />
+
+
+## ⚫ Analysis Task 2
+
+The following visuals were created around channel using the Time intelligence Measures created
+
+* Summazation of what the visuals connotes:
+
+  - Store has the highest sales and this was generated in 2012, the sum of $ 13.3M
+  - Unknown and Catalog ranked the lowest in terms of sales amidst channels
+  - 2011 consistently pulled in the lowest sales.
+
+
+
+
+<img width="892" height="506" alt="channel jpeg" src="https://github.com/user-attachments/assets/fbd45d04-230c-4f9b-85b2-7e2138154d1f" />
 
 
 
