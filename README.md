@@ -76,19 +76,40 @@ The following KPIs were generated
 
 ## ⚫ Analysis Task 2
 
-The following visuals were created around channel using the Time intelligence Measures created
+The following visuals were created around CHANNEL using the Time intelligence Measures created
 
-* Summazation of what the visuals connotes:
+#### Summazation of what the visuals connotes:
 
+There are Channel of sale and they are: 
+
+* Store
+* Online
+* Reseller
+* Catalog
+* Unknown
+  
   - Store has the highest sales and this was generated in 2012, the sum of $ 13.3M
   - Unknown and Catalog ranked the lowest in terms of sales amidst channels
   - 2011 consistently pulled in the lowest sales.
-
-
-
+  - Unknown had the highest YOY variance % (40.54%)
+  - Store had the highest order quantity of 142k.
 
 <img width="892" height="506" alt="channel jpeg" src="https://github.com/user-attachments/assets/fbd45d04-230c-4f9b-85b2-7e2138154d1f" />
 
 
+## 🪕 Analysis Task 3
 
+The following viusals were created around ZONE using the Time intelligence Measures created
+
+There are 7 (Seven) Zones:
+
+- **South East**
+-  **South South**
+-  **North Central**
+-  **North West**
+-  **South West**
+-  **North East**
+- **Federal Capital Territory**
+  
+* Summazation of what the visuals connotes:
 
