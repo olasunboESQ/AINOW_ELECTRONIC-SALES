@@ -113,3 +113,28 @@ There are 7 (Seven) Zones:
   
 * Summazation of what the visuals connotes:
 
+       * The highest profit was made in the South East with the total of $9.1M
+
+       * FCT has the lowest profit with $0.2M
+
+      * South East has the highest total sales of $16M
+
+  <img width="888" height="497" alt="Zone" src="https://github.com/user-attachments/assets/1c4bd667-20c8-4d5f-91e8-a7863494e3d9" />
+
+
+
+  ## 🏸 ANALYSIS TASK 4
+
+  The following visuals are created around Product Category using the Time intelligence Measures created
+
+  
+There are 6 (six) Product Categories in the dataset
+
+- Audio
+- Computer
+- Cameras and Camcoders
+- Tv and Video
+- Cellphones
+- Music, Movies and Audio Books
+
+<img width="892" height="502" alt="product" src="https://github.com/user-attachments/assets/edb7f548-ec7b-4c9b-b4a4-26cce3ec9b2f" />
