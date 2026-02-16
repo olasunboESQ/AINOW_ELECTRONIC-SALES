@@ -111,15 +111,17 @@ There are 7 (Seven) Zones:
 -  **North East**
 - **Federal Capital Territory**
   
-* Summazation of what the visuals connotes:
+* Summation of what the visuals connotes:
 
-       * The highest profit was made in the South East with the total of $9.1M
+    * The highest profit was made in the South East with the total of $9.1M
 
-       * FCT has the lowest profit with $0.2M
+   * FCT has the lowest profit with $0.2M
 
-      * South East has the highest total sales of $16M
+    * South East has the highest total sales of $16M
 
-  <img width="888" height="497" alt="Zone" src="https://github.com/user-attachments/assets/1c4bd667-20c8-4d5f-91e8-a7863494e3d9" />
+
+ 
+<img width="888" height="497" alt="Zone" src="https://github.com/user-attachments/assets/6cf2bb8a-32e5-4bf7-93c6-6f512e754058" />
 
 
 
@@ -133,8 +135,15 @@ There are 6 (six) Product Categories in the dataset
 - Audio
 - Computer
 - Cameras and Camcoders
-- Tv and Video
+- Tv and Video 
 - Cellphones
 - Music, Movies and Audio Books
 
+
+Summation of the Visauls
+
+   * Audio had the highest YOY% with 64.44%
+   * Music, Movies and Audio Book had the lowest YOY% with 23.89%
+   * Computers had the highest total sales of 22M
+   * Audio had the least total sales of 1M
 <img width="892" height="502" alt="product" src="https://github.com/user-attachments/assets/edb7f548-ec7b-4c9b-b4a4-26cce3ec9b2f" />
